@@ -1,0 +1,47 @@
+/**
+ * mucms
+ * http://mucms.com/
+ *
+ * @version 1.1.0
+ * @author jacubb <admin@mucms.com>
+ * @copyright (c) 2014 - 2020, mucms
+ */
+
+:root {
+    --bg-color: rgba(12, 12, 12, 1.0);
+    --content-bg-color: rgba(32, 34, 38, 1.0);
+    --footer-bg-color: rgba(45, 48, 52, 1.0);
+
+    --title-text-color: rgba(255, 133, 0, 1.0);
+    --general-text-color: rgba(193, 193, 193, 1.0);
+    --link-text-color: rgba(255, 123, 0, 1.0);
+    --link-text-color-hover: rgba(255, 87, 0, 1.0);
+
+    --btn-bg-color: rgba(255, 133, 0, 1.0);
+    --btn-bg-color-hover: rgba(52, 73, 94, 1.0);
+    --btn-border-color: rgba(255, 133, 0, 1.0);
+    --btn-border-color-hover: rgba(52, 73, 94, 1.0);
+    --btn-text-color: rgba(236, 240, 241, 1.0);
+
+    --navbar-bg-color: rgba(44, 62, 80, 0.5);
+    --navbar-bg-color-scrolled: rgba(44, 62, 80, 0.85);
+    --navbar-bg-color-mobile: rgba(44, 62, 80, 0.8);
+    --navbar-bg-color-scrolled-mobile: rgba(44, 62, 80, 0.9);
+    --navbar-text-color: rgba(253, 253, 253, 1.0);
+    --navbar-text-color-hover: rgba(52, 152, 219, 1.0);
+    --navbar-active-bg-color: rgba(41, 128, 185, 1.0);
+    --navbar-active-text-color: rgba(253, 253, 253, 1.0);
+
+    --slider-bg-color: rgba(52, 73, 94, 0.25);
+    --slider-title-color: rgba(41, 128, 185, 1.0);
+    --slider-text-color: rgba(253, 253, 253, 1.0);
+
+    --usercp-info-bg-color: rgba(255, 133, 0, 1.0);
+    --usercp-info-text-color: rgba(253, 253, 253, 1.0);
+    --usercp-section-bg-color: rgba(255, 133, 0, 1.0);
+    --usercp-section-text-color: rgba(253, 253, 253, 1.0);
+    --usercp-item-bg-color: rgba(41, 128, 185, 1.0);
+    --usercp-item-bg-color-hover: rgba(52, 152, 219, 1.0);
+    --usercp-item-text-color: rgba(253, 253, 253, 1.0);
+    --usercp-item-text-color-hover: rgba(253, 253, 253, 1.0);
+}

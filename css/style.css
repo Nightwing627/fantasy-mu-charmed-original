@@ -1,0 +1,282 @@
+@import url(https://fonts.googleapis.com/css?family=Cuprum:400,700);
+
+#EquipmentWrapper {
+    width: 294px;
+    height: 223px;
+    background: url(../images/item/equipment.jpg);
+    overflow: hidden;
+}
+
+#EquipmentLeftWeapon {
+    width: 50px;
+    height: 76px;
+    top: 71px;
+    left: 28px;
+    position: absolute;
+}
+
+#EquipmentRightWeapon {
+    width: 50px;
+    height: 76px;
+    top: 71px;
+    left: 247px;
+    position: absolute;
+}
+
+#EquipmentHelm {
+    width: 50px;
+    height: 50px;
+    top: 9px;
+    left: 138px;
+    position: absolute;
+}
+
+#EquipmentArmor {
+    width: 50px;
+    height: 76px;
+    top: 71px;
+    left: 138px;
+    position: absolute;
+}
+
+#EquipmentPants {
+    width: 50px;
+    height: 50px;
+    top: 159px;
+    left: 138px;
+    position: absolute;
+}
+
+#EquipmentGloves {
+    width: 50px;
+    height: 50px;
+    top: 159px;
+    left: 28px;
+    position: absolute;
+}
+
+#EquipmentBoots {
+    width: 50px;
+    height: 52px;
+    top: 159px;
+    left: 247px;
+    position: absolute;
+}
+
+#EquipmentWing {
+    width: 87px;
+    height: 50px;
+    top: 9px;
+    left: 210px;
+    position: absolute;
+}
+
+#EquipmentGuardian {
+    width: 50px;
+    height: 50px;
+    top: 9px;
+    left: 28px;
+    position: absolute;
+}
+
+#EquipmentPendant {
+    width: 31px;
+    height: 31px;
+    top: 28px;
+    left: 92px;
+    position: absolute;
+}
+
+#EquipmentLeftRing {
+    width: 31px;
+    height: 31px;
+    top: 178px;
+    left: 92px;
+    position: absolute;
+}
+
+#EquipmentRightRing {
+    width: 31px;
+    height: 31px;
+    top: 178px;
+    left: 202px;
+    position: absolute;
+}
+
+.EquipmentBackground {
+    background: #0F0;
+    cursor: pointer;
+}
+
+.EquipmentTooltipWrapper {
+    padding: 5px 0;
+    overflow: hidden;
+    display: block;
+}
+
+@media only screen and (min-width: 1500px) {
+    .semi-fluid {
+        width: 80%;
+    }
+}
+
+@media only screen and (min-width: 1800px) {
+    .semi-fluid {
+        width: 70%;
+    }
+}
+
+.font-highlight {
+    color: #ca3b0f;
+}
+
+.top-marginless {
+    margin-top: 0;
+}
+
+.left-marginless {
+    margin-left: 0;
+}
+
+.right-marginless {
+    margin-right: 0;
+}
+
+.bottom-marginless {
+    margin-bottom: 0;
+}
+
+.content-box hr {
+    margin-top: 15px;
+}
+
+.subnav-item {
+    margin-bottom: 5px;
+}
+
+#CharacterEquipmentWrapper {
+    width: 294px;
+    height: 223px;
+    background: url(../images/item/equipment.jpg);
+    overflow: hidden;
+}
+
+#CharacterEquipmentWrapper .tooltip.in {
+    opacity: 0.985 !important;
+}
+
+#CharacterEquipmentWrapper .tooltip-inner {
+    white-space: pre;
+    max-width: none;
+}
+
+#EquipmentLeftWeapon {
+    width: 50px;
+    height: 76px;
+    top: 71px;
+    left: 28px;
+    position: absolute;
+}
+
+#EquipmentRightWeapon {
+    width: 50px;
+    height: 76px;
+    top: 71px;
+    left: 247px;
+    position: absolute;
+}
+
+#EquipmentHelm {
+    width: 50px;
+    height: 50px;
+    top: 9px;
+    left: 138px;
+    position: absolute;
+}
+
+#EquipmentArmor {
+    width: 50px;
+    height: 76px;
+    top: 71px;
+    left: 138px;
+    position: absolute;
+}
+
+#EquipmentPants {
+    width: 50px;
+    height: 50px;
+    top: 159px;
+    left: 138px;
+    position: absolute;
+}
+
+#EquipmentGloves {
+    width: 50px;
+    height: 50px;
+    top: 159px;
+    left: 28px;
+    position: absolute;
+}
+
+#EquipmentBoots {
+    width: 50px;
+    height: 52px;
+    top: 159px;
+    left: 247px;
+    position: absolute;
+}
+
+#EquipmentWing {
+    width: 87px;
+    height: 50px;
+    top: 9px;
+    left: 210px;
+    position: absolute;
+}
+
+#EquipmentGuardian {
+    width: 50px;
+    height: 50px;
+    top: 9px;
+    left: 28px;
+    position: absolute;
+}
+
+#EquipmentPendant {
+    width: 31px;
+    height: 31px;
+    top: 28px;
+    left: 92px;
+    position: absolute;
+}
+
+#EquipmentLeftRing {
+    width: 31px;
+    height: 31px;
+    top: 178px;
+    left: 92px;
+    position: absolute;
+}
+
+#EquipmentRightRing {
+    width: 31px;
+    height: 31px;
+    top: 178px;
+    left: 202px;
+    position: absolute;
+}
+
+.EquipmentBackground {
+    background: #0F0;
+    cursor: pointer;
+}
+
+.EquipmentTooltipWrapper {
+    padding: 5px 0;
+    overflow: hidden;
+    display: block;
+}
+
+#SearchProfileSubmit {
+    margin-left: 0;
+}
